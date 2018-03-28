@@ -1,0 +1,13 @@
+Algoritmo nofEj4
+	//4. Dada una cantidad en pesos, obtener la equivalencia en dólares, asumiendo que la
+	//unidad cambiaría es un dato desconocido.
+	Definir pesos como entero;
+	Definir tipoCambio como entero;
+	Definir dolar como entero;
+	Escribir "Ingrese cantidad en pesos ar";
+	Leer pesos;
+	Escribir "Ingrese el tipo de cambio a la fecha";
+	Leer tipoCambio;
+	dolar<-pesos/tipoCambio;
+	Escribir "el tipo de cambio es: " dolar;
+FinAlgoritmo

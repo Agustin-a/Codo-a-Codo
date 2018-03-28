@@ -1,0 +1,9 @@
+Algoritmo nofEj3
+	//3. Realizar un algoritmo que resuelva la suma de dos valores ingresados por teclado
+	Escribir "Ingresar 1er valor"
+	Leer valor1
+	Escribir "Ingresar 2do valor"
+	Leer valor2
+	resultado<-valor1+valor2
+	Escribir "El resultado de la suma es: " resultado
+FinAlgoritmo

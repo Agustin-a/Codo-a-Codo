@@ -1,0 +1,20 @@
+Algoritmo ejer1
+//1. Realizar un algoritmo que resuelva los siguientes pasos
+//Paso 1 Entrada de base y altura desde periférico de entrada por ejemplo teclado
+//Paso 2 Cálculo de la superficie, multiplicando la base por la altura
+	//Pase 3 Salida por pantallas de base, altura y superficie.	
+	
+	Definir base como entero;
+	Definir altura como entero;
+	Definir superficie como entero;
+	
+	Escribir "Ingrese la base";
+	Leer base;
+	Escribir "Ingrese la altura";
+	Leer altura;
+	superficie<-base*altura;
+	Escribir "La superficie es: " superficie;
+	Escribir "La base es: " base;
+	Escribir "La altura es: " altura;
+FinAlgoritmo
+
